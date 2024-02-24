@@ -25,7 +25,7 @@ git log
 got log --oneline
 ```
 
-Переход между изменениями
+Переход между ветками
 ```sh
-git checkout
+git checkout <имя ветки>
 ```
