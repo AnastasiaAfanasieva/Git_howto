@@ -20,6 +20,9 @@ git commit -m "Messege"
 git log
 ```
 
-
+Просмотр добавленных изменений в кратком содержании
+```sh
 got log --oneline
+```
+
 git checkout
