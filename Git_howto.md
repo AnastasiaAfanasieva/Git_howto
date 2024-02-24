@@ -27,5 +27,11 @@ got log --oneline
 
 Переход между ветками
 ```sh
-git checkout <имя ветки>
+
+git checkout <branch_name>
+```
+
+Отображение всех веток
+```sh
+git branch
 ```
