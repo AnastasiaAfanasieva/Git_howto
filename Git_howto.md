@@ -12,7 +12,7 @@ git add
 
 Добавить комментарий к изменению
 ```sh
-git commit -m "Messege"
+git commit -m "Messege text"
 ```
 
 Расширенный просмотр добвленных изменений
