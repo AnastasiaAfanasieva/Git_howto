@@ -27,7 +27,7 @@ got log --oneline
 
 Переход между изменениями
 ```sh
-git checkout
+git checkout <branch_name>
 ```
 
 Отображение всех веток
