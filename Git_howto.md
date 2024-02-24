@@ -25,4 +25,7 @@ git log
 got log --oneline
 ```
 
+Переход между изменениями
+```sh
 git checkout
+```
