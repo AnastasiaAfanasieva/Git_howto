@@ -10,6 +10,11 @@ git init
 git init <folder_name>
 ```
 
+Показать состояние репозитория
+```sh
+git status
+```
+
 Добавить изменения в файл
 ```sh
 git add
