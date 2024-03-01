@@ -85,3 +85,8 @@ mkdir <имя_каталога>
 ```sh
 git remote -v
 ```
+
+Получить данные об удаленном репозитории с сокращенным именем origin
+```sh
+git remote show origin
+```
