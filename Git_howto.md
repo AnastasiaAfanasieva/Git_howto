@@ -25,6 +25,11 @@ git log
 got log --oneline
 ```
 
+Показать текущую ветку и история слияния
+```sh
+git log --oneline --graph
+```
+
 Переход между ветками
 ```sh
 
